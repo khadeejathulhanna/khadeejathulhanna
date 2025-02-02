@@ -2,11 +2,11 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [hanna]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1: [khadeejathul hanna] - [pptm college vengara ]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
@@ -14,47 +14,40 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[its a gamime rock paper scissor ]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[rock paper scissor game]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+
+[making a web for the game]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Languages used hdml,css,javascript]
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [Tools used:text editor vs cord,note pade]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
 # Run
-[commands]
+[ open index.html in any latest browser]
 
 ### Project Documentation
 For Software:
+html,css,javascript
+# Screenshots ()
+![home](home.png)
+*home page of game*
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![choose](choose.png)
+*choosing option*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![score](score.png)
+* score details*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -84,8 +77,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[demo](demo.mp4)
+*demo video of gaming*
 
 # Additional Demos
 [Add any extra demo materials/links]
